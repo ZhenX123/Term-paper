@@ -1,0 +1,17 @@
+F:\Housesell\Housesell\bin\Debug\Housesell.exe.config
+F:\Housesell\Housesell\bin\Debug\Housesell.exe
+F:\Housesell\Housesell\bin\Debug\Housesell.pdb
+F:\Housesell\Housesell\obj\Debug\Housesell.csprojAssemblyReference.cache
+F:\Housesell\Housesell\obj\Debug\Housesell.Properties.Resources.resources
+F:\Housesell\Housesell\obj\Debug\Housesell.csproj.GenerateResource.cache
+F:\Housesell\Housesell\obj\Debug\Housesell.csproj.CoreCompileInputs.cache
+F:\Housesell\Housesell\obj\Debug\Housesell.exe
+F:\Housesell\Housesell\obj\Debug\Housesell.pdb
+F:\Housesell\Housesell\obj\Debug\Housesell.login.resources
+F:\Housesell\Housesell\obj\Debug\Housesell.user1.resources
+F:\Housesell\Housesell\obj\Debug\Housesell.client1.resources
+F:\Housesell\Housesell\obj\Debug\Housesell.client2.resources
+F:\Housesell\Housesell\obj\Debug\Housesell.client3.resources
+F:\Housesell\Housesell\obj\Debug\Housesell.House1.resources
+F:\Housesell\Housesell\obj\Debug\Housesell.House11.resources
+F:\Housesell\Housesell\obj\Debug\Housesell.House12.resources
